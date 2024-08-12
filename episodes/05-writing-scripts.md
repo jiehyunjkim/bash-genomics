@@ -142,10 +142,9 @@ Open `README.txt` again and add your name and major on the next line of date and
 
 ## Solution
 
-```
-$ nano README.txt
+Use `nano README.txt` to open the file.
 Add student's name and major and then use <kbd>Ctrl</kbd>\-<kbd>O</kbd> and <kbd>Enter</kbd> and <kbd>Ctrl</kbd>\-<kbd>X</kbd> to quit.
-```
+
 :::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
